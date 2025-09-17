@@ -35,7 +35,7 @@ def process_docx(uploaded_file):
 
     return data
 
-st.title("Word to CSV Converter")
+st.title("Encardio Rite Target Extractor APP")
 
 st.markdown("Upload a `.docx` file to extract target coordinates and convert them to a CSV file.")
 
